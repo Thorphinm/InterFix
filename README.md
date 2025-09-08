@@ -2,11 +2,15 @@ InterFix
 
 Transformamos o suporte técnico da sua empresa com inteligência artificial. A InterFix oferece assistência eficiente, personalizada e em tempo real, conectando soluções inteligentes às necessidades exatas do seu negócio.
 
-<p align center>
+
   | <a href="#desafio">Desafio</a> |
-   <a href="#tecnologia">Tcenologias</a> |
+  [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md) |
+  <a href="#dor">DoR</a> |
+  <a href="dod">DoD</a> |
+  <a href="#sprint">Cronograma de sprints</a> |
+   <a href="#tecnologia">Tecnologias</a> |
    <a href="#integrantes">Integrantes</a> |
-</p>
+
 
 ## 🏅 Desafio <a id="desafio"></a>
 
@@ -15,7 +19,27 @@ Desenvolver um sistema web, desktop e mobile de suporte técnico que utiliza IA 
 ## 🏅 Solução <a id="solucao"></a>
 Desenvolver uma aplicação multiplataforma (web, desktop e mobile) com autenticação baseada em níveis de acesso (Admin, Técnico, Funcionário), gerenciados pelo Admin. Permitir que Funcionários criem chamados via interface intuitiva, armazenando os dados em banco centralizado. Integrar um módulo de IA que analisa o conteúdo dos chamados, define prioridade com base em urgência e disponibilidade, e os distribui automaticamente aos Técnicos livres.
 
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+
+
+## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+* Manual de Usuário
+* Manual da Aplicação
+
+
+## 📅 Cronograma de Sprints <a id="sprint"></a>
+
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 18 - 08 | |
+| 🔖 **SPRINT 2** |    -    | |
+| 🔖 **SPRINT 3** |    -    | |
 
 ## Tecnologias Utilizadas 💻 <a id="tecnologia"></a>
 
