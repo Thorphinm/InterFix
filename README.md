@@ -6,7 +6,7 @@ Transformamos o suporte técnico da sua empresa com inteligência artificial. A 
   | <a href="#desafio">Desafio</a> |
   [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md) |
   <a href="#dor">DoR</a> |
-  <a href="dod">DoD</a> |
+  <a href="#dod">DoD</a> |
   <a href="#sprint">Cronograma de sprints</a> |
    <a href="#tecnologia">Tecnologias</a> |
    <a href="#integrantes">Integrantes</a> |
