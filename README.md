@@ -37,7 +37,7 @@ Desenvolver uma aplicação multiplataforma (web, desktop e mobile) com autentic
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 18 - 08 | |
+| 🔖 **SPRINT 1** | 18 - 08 | [Sprint 1](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint1.md) |
 | 🔖 **SPRINT 2** |    -    | |
 | 🔖 **SPRINT 3** |    -    | |
 
