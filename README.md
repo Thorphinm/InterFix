@@ -14,11 +14,10 @@ Transformamos o suporte técnico da sua empresa com inteligência artificial. A 
 
 ## 🏅 Desafio <a id="desafio"></a>
 
-Desenvolver um sistema web, desktop e mobile de suporte técnico que utiliza IA para atribuir os chamados. O sistema conterá três níveis acessos (Admin, Técnico e Funcionário), esses níveis de acesso serão gerenciados pelo Administrador. O sistema deve criar chamados que são feitos pelos funcionários da empresa e com o uso da IA será definido a prioridade dos chamados, e atribui-los aos técnicos que estejam disponíveis.
+Este projeto tem como objetivo criar um sistema multiplataforma de gerenciamento de chamados e suporte para uma empresa. Permitindo que os alunos coloquem em prática algumas habilidades como: Documentação, Propaganda própria, Gráficos etc.
 
 ## 🏅 Solução <a id="solucao"></a>
-Desenvolver uma aplicação multiplataforma (web, desktop e mobile) com autenticação baseada em níveis de acesso (Admin, Técnico, Funcionário), gerenciados pelo Admin. Permitir que Funcionários criem chamados via interface intuitiva, armazenando os dados em banco centralizado. Integrar um módulo de IA que analisa o conteúdo dos chamados, define prioridade com base em urgência e disponibilidade, e os distribui automaticamente aos Técnicos livres.
-
+Interfix, nós trabalhamos com o desenvolvimento de software personalizado para os objetivos únicos de cada empresa. A Interfix acredita que os seus ideais devem ser colocados em prática, e por isso trabalhamos para tornar isso possível. Por um atendimento personalizado para você e um software que seja a sua cara !
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
 * User Stories com **Critérios de Aceitação**
