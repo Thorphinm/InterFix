@@ -38,11 +38,13 @@ Interfix, nós trabalhamos com o desenvolvimento de software personalizado para 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | 18/08 - 08/09 | [Sprint 1](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint1.md) |
-| 🔖 **SPRINT 2** | 15/09 - 29/09 | |
+| 🔖 **SPRINT 2** | 15/09 - 29/09 ||
 | 🔖 **SPRINT 3** |    -    | |
 | 🔖 **SPRINT 4** |    -    | |
 | 🔖 **SPRINT 5** |    -    | |
 | 🔖 **SPRINT 6** |    -    | |
+| 🔖 **SPRINT 7** |    -    | |
+| 🔖 **SPRINT 8** |    -    | |
 
 
 
