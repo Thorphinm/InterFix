@@ -19,19 +19,6 @@ Este projeto tem como objetivo criar um sistema multiplataforma de gerenciamento
 
 ## 🏅 Solução <a id="solucao"></a>
 Interfix, nós trabalhamos com o desenvolvimento de software personalizado para os objetivos únicos de cada empresa. A Interfix acredita que os seus ideais devem ser colocados em prática, e por isso trabalhamos para tornar isso possível. Por um atendimento personalizado para você e um software que seja a sua cara !
-## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
-
-* User Stories com **Critérios de Aceitação**
-* Subtarefas divididas **a partir das US**
-* Design no **Figma**
-* Modelagem do **Banco de Dados**
-
-
-## 🏆 DoD - Definition of Done <a id="dod"></a>
-
-* Manual de Usuário
-* Manual da Aplicação
-
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
@@ -58,6 +45,19 @@ BackEnd | C#
 Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
+
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+
+ ## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+* Manual de Usuário
+* Manual da Aplicação
+
 
 ## Integrantes 👥 <a id="integrantes"></a>
 
