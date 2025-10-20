@@ -16,7 +16,7 @@ Este diagrama de classes é para o caso de uso de "gerenciamento de níveis de a
 
 Por outro lado, este diagrama de sequência é criado a partir do caso de uso “Analisar Chamados”.
 
-![Class Diagram Chamado](Chamados.Asta)
+![Class Diagram Chamado](https://raw.githubusercontent.com/Thorphinm/InterFix/refs/heads/main/Diagramas/Chamados.asta)
 
 ## Requisitos
 * O estágio no backlog do produto é finalizado para apresentá-lo ao cliente e obter sua aprovação ou identificar se ele estava procurando outra coisa.
