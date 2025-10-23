@@ -34,7 +34,9 @@ Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de neg�
 #### Legenda de Status:
 
 | Símbolo | Significado |
+
 | ✅ | Funcionalidade implementada e testada. |
+
 | 🚧 | Em Desenvolvimento (ativo no Sprint/Fase atual). |
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
