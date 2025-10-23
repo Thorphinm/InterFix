@@ -29,22 +29,13 @@ Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de neg�
 | Rank | Papel | User Story (Como... Eu quero... Para que...) | Prioridade | Status |
 | :--: | :---: | :------------------------------------------- | :--------: | :----: |
 | 1 | **Product Owner** | Como Product Owner, eu quero desenvolver um software de chamados com suporte de Inteligência Artificial, para que atribuir chamados a técnicos com o mínimo de erros. | P1 (Alta) | 🚧 |
-| 2 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P1 (Alta)  | [Status] |
-| 3 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P2 (Média) | [Status] |
-| 4 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P2 (Média) | [Status] |
-| 5 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P3 (Baixa) | [Status] |
-| 6 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P3 (Baixa) | [Status] |
-| ... | ... | ... | ... | ... |
-
----
+| 2 | **Scrum Master** | Como Scrum Master, eu quero que o projeto esteja alinhado com a metodologia ágil Scrum, para que a equipe esteja alinhada e organizada. | P1 (Alta)  | ✅  |
+| 3 | **Desenvolvedor** | Como Desenvolvedor, eu quero desenvolver esse software, para que o produto seja entregue com qualidade. | P2 (Média) | 🚧 |
 #### Legenda de Status:
 
 | Símbolo | Significado |
-| :---: | :--- |
 | ✅ | Funcionalidade implementada e testada. |
 | 🚧 | Em Desenvolvimento (ativo no Sprint/Fase atual). |
-| 💡 | Na Fila de Desenvolvimento (pronto para ser planejado). |
-| 🗑️ | Descartado ou Movido para outra Epic. |
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
