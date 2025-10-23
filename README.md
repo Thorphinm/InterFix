@@ -20,6 +20,32 @@ Este projeto tem como objetivo criar um sistema multiplataforma de gerenciamento
 ## 🏅 Solução <a id="solucao"></a>
 Interfix, nós trabalhamos com o desenvolvimento de software personalizado para os objetivos únicos de cada empresa. A Interfix acredita que os seus ideais devem ser colocados em prática, e por isso trabalhamos para tornar isso possível. Por um atendimento personalizado para você e um software que seja a sua cara !
 
+## 💻 Estrutura do Projeto
+
+### 📌 Backlog do Produto <a id="backlog"></a>
+
+Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de negócio e organizadas como User Stories.
+
+| Rank | Papel | User Story (Como... Eu quero... Para que...) | Prioridade | Status |
+| :--: | :---: | :------------------------------------------- | :--------: | :----: |
+| 1 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P1 (Alta) | [Status] |
+| 2 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P1 (Alta) | [Status] |
+| 3 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P2 (Média) | [Status] |
+| 4 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P2 (Média) | [Status] |
+| 5 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P3 (Baixa) | [Status] |
+| 6 | **[Papel]** | Como [Papel], eu quero [O Que], para que [Valor]. | P3 (Baixa) | [Status] |
+| ... | ... | ... | ... | ... |
+
+---
+#### Legenda de Status:
+
+| Símbolo | Significado |
+| :---: | :--- |
+| ✅ | Funcionalidade implementada e testada. |
+| 🚧 | Em Desenvolvimento (ativo no Sprint/Fase atual). |
+| 💡 | Na Fila de Desenvolvimento (pronto para ser planejado). |
+| 🗑️ | Descartado ou Movido para outra Epic. |
+
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
@@ -32,9 +58,6 @@ Interfix, nós trabalhamos com o desenvolvimento de software personalizado para 
 | 🔖 **SPRINT 6** |    -    | |
 | 🔖 **SPRINT 7** |    -    | |
 | 🔖 **SPRINT 8** |    -    | |
-
-
-
 
 ## Tecnologias Utilizadas 💻 <a id="tecnologia"></a>
 
