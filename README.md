@@ -57,6 +57,10 @@ Metodología | Scrum + Git FLow
 
 [Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
 
+## Documentação
+
+[Documentação]()
+
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
 * User Stories com **Critérios de Aceitação**
