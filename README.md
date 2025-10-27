@@ -22,21 +22,6 @@ Interfix, nós trabalhamos com o desenvolvimento de software personalizado para 
 
 ### 📌 Backlog do Produto <a id="backlog"></a>
 
-Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de negócio e organizadas como User Stories.
-
-| Rank | Papel | User Story (Como... Eu quero... Para que...) | Prioridade | Status |
-| :--: | :---: | :------------------------------------------- | :--------: | :----: |
-| 1 | **Product Owner** | Como Product Owner, eu quero desenvolver um software de chamados com suporte de Inteligência Artificial, para que atribuir chamados a técnicos com o mínimo de erros. | P1 (Alta) | 🚧 |
-| 2 | **Scrum Master** | Como Scrum Master, eu quero que o projeto esteja alinhado com a metodologia ágil Scrum, para que a equipe esteja alinha e organizada. | P1 (Alta)  | ✅  |
-| 3 | **Desenvolvedor** | Como Desenvolvedor, eu quero desenvolver esse software, para que o produto seja entregue com qualidade. | P2 (Média) | 🚧 |
-#### Legenda de Status:
-
-| Símbolo | Significado |
-
-| ✅ | Funcionalidade implementada e testada. |
-
-| 🚧 | Em Desenvolvimento (ativo no Sprint/Fase atual). |
-
 [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md)
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
