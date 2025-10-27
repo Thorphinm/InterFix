@@ -43,12 +43,12 @@ Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de neg�
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 18/08 - 25/08 | [Sprint 1](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint1.md) |
-| 🔖 **SPRINT 2** | 01/09 - 08/09 | [Sprint 2](Scrum/Sprint2.md)|
-| 🔖 **SPRINT 3** | 15/09 - 22/09 | [Sprint 3](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint3.md)|
-| 🔖 **SPRINT 4** | 29/09 - 06/10 | [Sprint 4](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint4.md)|
-| 🔖 **SPRINT 5** | 13/10 - 20/10 | [Sprint 5](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint5.md)|
-| 🔖 **SPRINT 6** |    -    | |
+| 🔖 **SPRINT 1** | 04/08 - 11/08 | [Sprint 1](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint1.md) |
+| 🔖 **SPRINT 2** | 18/08 - 25/08 | [Sprint 2](Scrum/Sprint2.md)|
+| 🔖 **SPRINT 3** | 08/09 - 15/09 | [Sprint 3](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint3.md)|
+| 🔖 **SPRINT 4** | 22/09 - 29/09 | [Sprint 4](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint4.md)|
+| 🔖 **SPRINT 5** | 06/10 - 13/10 | [Sprint 5](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint5.md)|
+| 🔖 **SPRINT 6** | 20/10 - 27/10 | |
 | 🔖 **SPRINT 7** |    -    | |
 | 🔖 **SPRINT 8** |    -    | |
 
