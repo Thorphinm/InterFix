@@ -40,6 +40,18 @@ Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de neg�
 ## Backlog do Produto
 [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md)
 
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+
+ ## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+* Manual de Usuário
+* Manual da Aplicação
+
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 [Cronograma de Sprints](https://github.com/Thorphinm/InterFix/blob/main/Scrum/CronogramaDeSprints)
 
@@ -60,20 +72,6 @@ Metodología | Scrum + Git FLow
 ## Documentação
 
 [Documentação]()
-
-## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
-
-* User Stories com **Critérios de Aceitação**
-* Subtarefas divididas **a partir das US**
-* Design no **Figma**
-* Modelagem do **Banco de Dados**
-
- ## 🏆 DoD - Definition of Done <a id="dod"></a>
-
-* Manual de Usuário
-* Manual da Aplicação
-
-## Documentação
 
 ## Integrantes 👥 <a id="integrantes"></a>
 
