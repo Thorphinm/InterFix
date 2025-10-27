@@ -36,7 +36,9 @@ Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
 
-da## 💻 Estrutura do Projeto
+## 💻 Estrutura do Projeto
+
+
 
 ### 📌 Backlog do Produto <a id="backlog"></a>
 
