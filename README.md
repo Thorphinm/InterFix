@@ -20,25 +20,6 @@ Este projeto tem como objetivo criar um sistema multiplataforma de gerenciamento
 ## 🏅 Solução <a id="solucao"></a>
 Interfix, nós trabalhamos com o desenvolvimento de software personalizado para os objetivos únicos de cada empresa. A Interfix acredita que os seus ideais devem ser colocados em prática, e por isso trabalhamos para tornar isso possível. Por um atendimento personalizado para você e um software que seja a sua cara !
 
-## 💻 Estrutura do Projeto
-
-### 📌 Backlog do Produto <a id="backlog"></a>
-
-Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de negócio e organizadas como User Stories.
-
-| Rank | Papel | User Story (Como... Eu quero... Para que...) | Prioridade | Status |
-| :--: | :---: | :------------------------------------------- | :--------: | :----: |
-| 1 | **Product Owner** | Como Product Owner, eu quero desenvolver um software de chamados com suporte de Inteligência Artificial, para que atribuir chamados a técnicos com o mínimo de erros. | P1 (Alta) | 🚧 |
-| 2 | **Scrum Master** | Como Scrum Master, eu quero que o projeto esteja alinhado com a metodologia ágil Scrum, para que a equipe esteja alinhada e organizada. | P1 (Alta)  | ✅  |
-| 3 | **Desenvolvedor** | Como Desenvolvedor, eu quero desenvolver esse software, para que o produto seja entregue com qualidade. | P2 (Média) | 🚧 |
-#### Legenda de Status:
-
-| Símbolo | Significado |
-
-| ✅ | Funcionalidade implementada e testada. |
-
-| 🚧 | Em Desenvolvimento (ativo no Sprint/Fase atual). |
-
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 [Cronograma de Sprints](https://github.com/Thorphinm/InterFix/blob/main/Scrum/CronogramaDeSprints)
 
@@ -51,6 +32,25 @@ BackEnd | C#
 Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
+
+da## 💻 Estrutura do Projeto
+
+### 📌 Backlog do Produto <a id="backlog"></a>
+
+Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de negócio e organizadas como User Stories.
+
+| Rank | Papel | User Story (Como... Eu quero... Para que...) | Prioridade | Status |
+| :--: | :---: | :------------------------------------------- | :--------: | :----: |
+| 1 | **Product Owner** | Como Product Owner, eu quero desenvolver um software de chamados com suporte de Inteligência Artificial, para que atribuir chamados a técnicos com o mínimo de erros. | P1 (Alta) | 🚧 |
+| 2 | **Scrum Master** | Como Scrum Master, eu quero que o projeto esteja alinhado com a metodologia ágil Scrum, para que a equipe esteja alinha e organizada. | P1 (Alta)  | ✅  |
+| 3 | **Desenvolvedor** | Como Desenvolvedor, eu quero desenvolver esse software, para que o produto seja entregue com qualidade. | P2 (Média) | 🚧 |
+#### Legenda de Status:
+
+| Símbolo | Significado |
+
+| ✅ | Funcionalidade implementada e testada. |
+
+| 🚧 | Em Desenvolvimento (ativo no Sprint/Fase atual). |
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
