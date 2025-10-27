@@ -20,6 +20,9 @@ Este projeto tem como objetivo criar um sistema multiplataforma de gerenciamento
 ## 🏅 Solução <a id="solucao"></a>
 Interfix, nós trabalhamos com o desenvolvimento de software personalizado para os objetivos únicos de cada empresa. A Interfix acredita que os seus ideais devem ser colocados em prática, e por isso trabalhamos para tornar isso possível. Por um atendimento personalizado para você e um software que seja a sua cara !
 
+## Backlog do Produto
+[Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md)
+
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 [Cronograma de Sprints](https://github.com/Thorphinm/InterFix/blob/main/Scrum/CronogramaDeSprints)
 
