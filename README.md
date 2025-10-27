@@ -48,7 +48,7 @@ Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de neg�
 | 🔖 **SPRINT 3** | 08/09 - 15/09 | [Sprint 3](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint3.md)|
 | 🔖 **SPRINT 4** | 22/09 - 29/09 | [Sprint 4](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint4.md)|
 | 🔖 **SPRINT 5** | 06/10 - 13/10 | [Sprint 5](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint5.md)|
-| 🔖 **SPRINT 6** | 20/10 - 27/10 | |
+| 🔖 **SPRINT 6** | 20/10 - 27/10 | [Sprint 6](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint6.md)|
 | 🔖 **SPRINT 7** |    -    | |
 | 🔖 **SPRINT 8** |    -    | |
 
