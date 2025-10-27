@@ -37,7 +37,6 @@ Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de neg�
 
 | 🚧 | Em Desenvolvimento (ativo no Sprint/Fase atual). |
 
-## Backlog do Produto
 [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md)
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
