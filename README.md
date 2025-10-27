@@ -38,7 +38,7 @@ Metodología | Scrum + Git FLow
 
 ## 💻 Estrutura do Projeto
 
-
+[Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
 
 ### 📌 Backlog do Produto <a id="backlog"></a>
 
