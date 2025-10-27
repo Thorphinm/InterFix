@@ -40,7 +40,7 @@ Esta tabela detalha as funcionalidades do sistema, priorizadas por valor de neg�
 | 🚧 | Em Desenvolvimento (ativo no Sprint/Fase atual). |
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
-| Cronograma de Sprints | [Cronograma de Sprints](https://github.com/Thorphinm/InterFix/blob/main/Scrum/CronogramaDeSprints) |
+[Cronograma de Sprints](https://github.com/Thorphinm/InterFix/blob/main/Scrum/CronogramaDeSprints)
 
 ## Tecnologias Utilizadas 💻 <a id="tecnologia"></a>
 
