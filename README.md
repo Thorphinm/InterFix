@@ -24,18 +24,6 @@ Interfix, nós trabalhamos com o desenvolvimento de software personalizado para 
 
 [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md)
 
-## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
-
-* User Stories com **Critérios de Aceitação**
-* Subtarefas divididas **a partir das US**
-* Design no **Figma**
-* Modelagem do **Banco de Dados**
-
- ## 🏆 DoD - Definition of Done <a id="dod"></a>
-
-* Manual de Usuário
-* Manual da Aplicação
-
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 [Cronograma de Sprints](https://github.com/Thorphinm/InterFix/blob/main/Scrum/CronogramaDeSprints)
 
@@ -53,10 +41,6 @@ Metodología | Scrum + Git FLow
 
 [Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
 
-## Documentação
-
-[Documentação]()
-
 ## Integrantes 👥 <a id="integrantes"></a>
 
 Função       | Nome                | Github                                                       |
@@ -67,3 +51,17 @@ Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorph
 Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
+
+## Documentação
+
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+
+ ## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+* Manual de Usuário
+* Manual da Aplicação
