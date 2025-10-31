@@ -48,15 +48,11 @@ Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouz
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
 
-## 💻 Estrutura do Projeto
-
 ## [Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
 
 ## [Manual de Instalação](https://github.com/Thorphinm/InterFix/blob/main/Manual%20de%20Instala%C3%A7%C3%A3o.md)
 
 ## [Documentação]() 📄<a id="documentacao"></a>
-
-
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
