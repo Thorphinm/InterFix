@@ -5,7 +5,7 @@ Transformamos o suporte técnico da sua empresa com inteligência artificial. A 
 <img width="700" height="500" alt="441907381-8aa8a096-88fa-4be4-952c-946d63ceed66" src="https://github.com/user-attachments/assets/9cb9f4b7-f167-4813-8e74-0817f62d15e8" />
 
   | <a href="#desafio">Desafio</a> |
-  <a href="#Backlog do Produto">Backlog do Produto</a>|
+  [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md)|
   <a href="#dor">DoR</a> |
   <a href="#dod">DoD</a> |
   <a href="#sprint">Cronograma de sprints</a> |
