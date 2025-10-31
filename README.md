@@ -25,6 +25,7 @@ Interfix, nós trabalhamos com o desenvolvimento de software personalizado para 
 [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md)
 
 ## [Ceonograma de Sprints](https://github.com/Thorphinm/InterFix/blob/main/Scrum/CronogramaDeSprints.md)
+## [Sprint Planing](https://github.com/Thorphinm/InterFix/blob/main/Scrum/SprintPlaning.md)
 
 ## Tecnologias Utilizadas 💻 <a id="tecnologia"></a>
 
