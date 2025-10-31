@@ -37,6 +37,12 @@ Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
 
+## [Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
+
+## [Manual de Instalação](https://github.com/Thorphinm/InterFix/blob/main/Manual%20de%20Instala%C3%A7%C3%A3o.md)
+
+## [Documentação]() 📄<a id="documentacao"></a>
+
 ## Integrantes 👥 <a id="integrantes"></a>
 
 Função       | Nome                | Github                                                       |
@@ -47,12 +53,6 @@ Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorph
 Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
-
-## [Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
-
-## [Manual de Instalação](https://github.com/Thorphinm/InterFix/blob/main/Manual%20de%20Instala%C3%A7%C3%A3o.md)
-
-## [Documentação]() 📄<a id="documentacao"></a>
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
