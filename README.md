@@ -37,10 +37,6 @@ Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
 
-## 💻 Estrutura do Projeto
-
-[Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
-
 ## Integrantes 👥 <a id="integrantes"></a>
 
 Função       | Nome                | Github                                                       |
@@ -52,7 +48,15 @@ Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouz
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
 
+## 💻 Estrutura do Projeto
+
+[Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
+
+## [Manual de Instalação]()
+
 ## [Documentação]() 📄<a id="documentacao"></a>
+
+
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
