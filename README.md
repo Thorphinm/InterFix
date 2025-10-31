@@ -50,7 +50,7 @@ Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaske
 
 ## 💻 Estrutura do Projeto
 
-[Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
+## [Estrutura do Projeto](https://github.com/Thorphinm/InterFix/blob/main/Estrutura%20do%20Projeto)
 
 ## [Manual de Instalação](https://github.com/Thorphinm/InterFix/blob/main/Manual%20de%20Instala%C3%A7%C3%A3o.md)
 
