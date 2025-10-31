@@ -52,8 +52,6 @@ Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouz
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
 
-## Documentação
-
 ## [Documentação]() 📄<a id="documentacao"></a>
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
