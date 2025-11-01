@@ -24,7 +24,7 @@ Interfix, nós trabalhamos com o desenvolvimento de software personalizado para 
 
 [Backlog do Produto](https://github.com/Thorphinm/InterFix/blob/main/Backlog/Backlog.md)
 
-## [Cronograma de Sprints](https://github.com/Thorphinm/InterFix/blob/main/Scrum/CronogramaDeSprints.md)
+## [Cronograma de Sprints](https://github.com/Thorphinm/InterFix/tree/main/Scrum)
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | 14/07 - 21/07 | [Sprint 1](https://github.com/Thorphinm/InterFix/blob/main/Scrum/Sprint1.md) |
