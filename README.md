@@ -41,7 +41,7 @@ Metodología | Scrum + Git FLow
 
 ## [Manual de Instalação](https://github.com/Thorphinm/InterFix/blob/main/Manual%20de%20Instala%C3%A7%C3%A3o.md)
 
-## [Documentação]() 📄<a id="documentacao"></a>
+## [Documentação](https://github.com/Thorphinm/InterFix/tree/main/Documento) 📄<a id="documentacao"></a>
 
 ## Integrantes 👥 <a id="integrantes"></a>
 
